@@ -4,6 +4,8 @@
     "email": "sandrone@doughmination.win"
   },
   "records": {
-    "CNAME": "edge.redirect.pizza"
+    "TXT": [
+      "dh=7bd4f641305cb61b35bcb671342446fad09389f4"
+    ]
   }
 }
